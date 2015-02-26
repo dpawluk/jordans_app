@@ -1,0 +1,10 @@
+<div id="my_wrapper">
+	<select id="agent_select" name="agent_select">
+			<option value="-">-</option>
+		{{#agents}}
+			<option value="{{this.id}}">{{this.name}}</option>
+		{{/agents}}
+	</select>
+	<br />
+	<button id="pop_button">Pop This Ticket!</button>
+</div>
