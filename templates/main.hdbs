@@ -6,5 +6,5 @@
 		{{/agents}}
 	</select>
 	<br />
-	<button id="pop_button">Pop This Ticket!</button>
+	<button id="pop_button">Pop Pop!</button>
 </div>

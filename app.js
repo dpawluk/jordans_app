@@ -59,6 +59,6 @@
     		this.ajax('pop_ticket_for_agent', agent_id, ticket_id);
     	}
     }
-	};
+	}; 
 
 }());
